@@ -1,4 +1,4 @@
-# esx_voice_withbars
+# esx_voice_withbar
 
 REQUIREMENTS
 - ESX Base
